@@ -9,7 +9,9 @@
         src="~/assets/profile.jpg"
         class="rounded-full mx-auto h-32 w-32 mb-4"
       />
-      <h1 class="text-3xl mb-1 text-gray-800 font-bold">Eason Chang 張楹翔</h1>
+      <h1 class="text-3xl mb-1 text-gray-800 font-bold">
+        Eason Chang 張楹翔 😎
+      </h1>
       <h2 class="text-xl mb-6 text-gray-600">
         Fullstack Engineer / Maker / Indie-hacker
       </h2>
