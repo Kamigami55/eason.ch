@@ -13,6 +13,58 @@ export default {
           'Hi! I am Eason, a Fullstack Engineer / Maker / Indie-hacker. Find me on the Internet!',
       },
       { name: 'format-detection', content: 'telephone=no' },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Eason Chang 張楹翔 😎 - Find me on the Internet 👀',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content:
+          'Hi! I am Eason, a Fullstack Engineer / Maker / Indie-hacker. Find me on the Internet!',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: 'https://eason.ch/og-easonchang.png',
+      },
+      {
+        hid: 'og:url',
+        property: 'og:url',
+        content: 'https://eason.ch',
+      },
+      {
+        hid: 'og:site_name',
+        property: 'og:site_name',
+        content: 'Eason Chang 張楹翔 😎 - Find me on the Internet 👀',
+      },
+      {
+        hid: 'twitter:card',
+        property: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        hid: 'twitter:title',
+        property: 'twitter:title',
+        content: 'Eason Chang 張楹翔 😎 - Find me on the Internet 👀',
+      },
+      {
+        hid: 'twitter:description',
+        property: 'twitter:description',
+        content:
+          'Hi! I am Eason, a Fullstack Engineer / Maker / Indie-hacker. Find me on the Internet!',
+      },
+      {
+        hid: 'twitter:site',
+        property: 'twitter:site',
+        content: '@EasonChang_me',
+      },
+      {
+        hid: 'twitter:image',
+        property: 'twitter:image',
+        content: 'https://eason.ch/og-easonchang.png',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
