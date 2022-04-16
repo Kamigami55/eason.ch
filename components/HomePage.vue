@@ -20,6 +20,7 @@
           v-for="link in links"
           :key="link.name"
           :href="link.url"
+          :target="link.target || '_blank'"
           class="block text-lg border-gray-400 bg-white hover:bg-gray-100 transition-all text-gray-700 border w-full max-w-xl p-4 rounded-full"
         >
           {{ link.name }}
