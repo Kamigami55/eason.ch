@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <HomePage />
 </template>
 
 <script lang="ts">
