@@ -10,7 +10,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Hi! I am Eason. I am a Fullstack Engineer / Maker / Indie-hacker',
+          'Hi! I am Eason, a Fullstack Engineer / Maker / Indie-hacker. Find me on the Internet!',
       },
       { name: 'format-detection', content: 'telephone=no' },
     ],
