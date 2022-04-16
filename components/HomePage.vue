@@ -61,6 +61,11 @@ export default {
           url: 'https://www.facebook.com/chang.ying.hsiang',
         },
         {
+          name: 'Email',
+          url: 'mailto:eason@easonchang.com',
+          target: '_self',
+        },
+        {
           name: 'Buy Me a Coffee',
           url: 'https://www.buymeacoffee.com/easonchang',
         },
